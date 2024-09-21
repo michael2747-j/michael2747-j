@@ -10,6 +10,30 @@
     <li>🛠 Tools: Git, Docker, VS Code</li>
   </ul>
   
+  <h2>Current Projects</h2>
+  <ul style="list-style-type:none;">
+    <li>🌐 <a href="https://github.com/michael2747-j/portfolio" target="_blank">Portfolio Website</a>: A personal portfolio website to showcase my projects and skills.</li>
+    <li>☁️ <a href="https://github.com/michael2747-j/weather-app" target="_blank">Weather App</a>: A weather forecasting app built with React and OpenWeatherMap API.</li>
+  </ul>
+  
+  <h2>Hobbies & Interests</h2>
+  <ul style="list-style-type:none;">
+    <li>♟️ Chess: I love playing chess and participate in local tournaments.</li>
+    <li>⚽ Soccer: I enjoy playing soccer with friends during weekends.</li>
+    <li>🏓 Ping Pong: A fun way to stay active and competitive.</li>
+  </ul>
+  
+  <h2>Currently Learning</h2>
+  <ul style="list-style-type:none;">
+    <li>📚 Advanced JavaScript and TypeScript</li>
+    <li>☁️ Cloud Computing with AWS</li>
+  </ul>
+  
+  <h2>Looking to Collaborate On</h2>
+  <ul style="list-style-type:none;">
+    <li>🤝 Open source projects related to web development and machine learning.</li>
+  </ul>
+  
   <h2>Connect with Me</h2>
   <p>
     <a href="https://www.linkedin.com/in/michael-melles-37729b262" target="_blank">
@@ -23,3 +47,4 @@
     </a>
   </p>
 </div>
+
