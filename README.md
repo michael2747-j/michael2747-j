@@ -5,9 +5,9 @@
   
   <h2>Skills</h2>
   <ul style="list-style-type:none;">
-    <li>💻 Programming Languages: JavaScript, Python, C++</li>
-    <li>🌐 Frameworks: React, Node.js, Express</li>
-    <li>🛠 Tools: Git, Docker, VS Code</li>
+    <ol>💻 Programming Languages: JavaScript, Python, C++</li>
+    <ol>🌐 Frameworks: React, Node.js, Express</li>
+    <ol>🛠 Tools: Git, Docker, VS Code</li>
   </ul>
   
   <h2>Current Projects</h2>
