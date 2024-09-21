@@ -1,48 +1,25 @@
-## Hi there 👋
-
-# Hi there, I'm Michael Melles 👋
-
-## About Me
-I'm a sophomore at Seneca College studying Software Engineering. I'm passionate about solving problems and am a fast learner with strong time-management skills. I enjoy participating in programming competitions and serving as the president of the International Students Union at my school.
-
-## 🔭 I’m currently working on
-- Portfolio Website: A personal portfolio website to showcase my projects and skills.
-- Weather App: A weather forecasting app built with React and OpenWeatherMap API.
-
-## 🌱 I’m currently learning
-- Advanced JavaScript and TypeScript
-- Cloud Computing with AWS
-
-## 👯 I’m looking to collaborate on
-- Open source projects related to web development and machine learning.
-
-## 🤔 I’m looking for help with
-- Improving my knowledge of DevOps practices.
-
-## 💬 Ask me about
-- Web development
-- Competitive programming
-- Leadership in student organizations
-
-## 📫 How to reach me
-!LinkedIn
-!GitHub
-!Email
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun fact
-I love playing chess and participate in local tournaments. I also enjoy playing soccer and ping pong during weekends.
-
-## 📈 GitHub Stats
-!Michael's GitHub stats
-
-## 🏆 GitHub Trophies
-!trophy
-
-## 🔗 Connect with Me
-!GitHub
-!LinkedIn
-!Twitter
-
+<div align="center">
+  <h1>Hi there, I'm Michael Melles 👋</h1>
+  <p>Sophomore at Seneca College | Software Engineering Student</p>
+  <p>Passionate about solving problems and learning new technologies.</p>
+  
+  <h2>Skills</h2>
+  <ul style="list-style-type:none;">
+    <li>💻 Programming Languages: JavaScript, Python, C++</li>
+    <li>🌐 Frameworks: React, Node.js, Express</li>
+    <li>🛠 Tools: Git, Docker, VS Code</li>
+  </ul>
+  
+  <h2>Connect with Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/michael-melles-37729b262" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/michael2747-j" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:michaelmelles4@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
