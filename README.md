@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi there, I'm Michael Melles 👋</h1>
   <p>Sophomore at Seneca College | Software Engineering Student</p>
   <p>Passionate about solving problems and learning new technologies.</p>
